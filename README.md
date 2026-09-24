@@ -1,4 +1,4 @@
-# Code for: [Deep entorhinal feedback controls the integration of temporally separated events]
+# Code for: [Deep entorhinal feedback controls integration of temporally separated events]
 
 This repository contains the custom Python code and statistical summary data used to generate the figures and analyses for the manuscript.
 
