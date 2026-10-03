@@ -1,0 +1,19 @@
+name: post
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=2.2.6
+  - pandas=2.3.3
+  - xarray=2025.6.1
+  - scikit-learn=1.7.2
+  - scikit-posthocs=0.12.0
+  - scipy=1.15.2
+  - statsmodels=0.14.5
+  - matplotlib=3.10.8
+  - matplotlib-venn=1.1.2
+  - seaborn=0.13.2
+  - notebook=7.5.2
+  - natsort=8.4.0
+  - dask=2025.11.0
+  - fastdtw=0.3.4
