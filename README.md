@@ -1,4 +1,4 @@
-# Code for: [Deep entorhinal feedback controls the linking of events across time]
+# Code for: [Deep entorhinal feedback constrains the linking of events across time]
 
 This repository contains the custom Python code and statistical summary data used to generate the figures and analyses for the manuscript.
 
@@ -33,8 +33,8 @@ To run the full pipeline:
 │	.
 │   ├── 15.Post_TFC-0/
 └── code/                  <-- This GitHub repository
-    ├── fig1/
-    ├── fig2/
+    ├── fig_1/
+    ├── fig_2/
 	.
 	.
     └── utils/
